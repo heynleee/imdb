@@ -1,0 +1,7 @@
+review_id,review_text,sentiment,user_id,movie_id,timestamp
+1,This movie was fantastic! The performances were great.,positive,123,456,2021-07-01
+2,I did not enjoy this movie. The plot was boring.,negative,124,457,2021-07-02
+3,An excellent film with a captivating storyline.,positive,125,458,2021-07-03
+4,The movie was too long and quite dull in the middle.,negative,126,459,2021-07-04
+5,A masterpiece! The director did an amazing job.,positive,127,460,2021-07-05
+6,Poorly executed. The script was weak and predictable.,negative,128,461,2021-07-06

@@ -1,0 +1,9 @@
+flask
+transformers
+pandas
+scikit-learn
+nltk
+spacy
+torch
+surprise
+gensim
